@@ -1,0 +1,1 @@
+echo "creds.yml" > .gitignore
